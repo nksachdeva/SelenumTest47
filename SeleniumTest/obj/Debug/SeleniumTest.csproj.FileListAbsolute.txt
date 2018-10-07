@@ -1,0 +1,11 @@
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.dll
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.pdb
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\nunit.framework.xml
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+E:\dot net projects\Selenium\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
